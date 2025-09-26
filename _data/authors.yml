@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
 First M. Last:
-  name             : "First M. Last"
+  name             : "Fabian L. Quichimbo"
   avatar           : "/assets/images/image.png" # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
   location         : Gainesville, FL
