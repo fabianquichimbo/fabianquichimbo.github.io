@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Fabian L. Quichimbo
 author_profile: true
 
 classes: wide
