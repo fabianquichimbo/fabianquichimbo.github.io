@@ -2,7 +2,7 @@
 
 First M. Last:
   name             : "First M. Last"
-  avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
+  avatar           : "/assets/images/image.png" # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
   location         : Gainesville, FL
   email            : example@email.com
