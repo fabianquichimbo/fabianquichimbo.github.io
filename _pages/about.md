@@ -20,7 +20,7 @@ excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my ho
   * Thesis: <i>"Groundwater and Surfacewater interactions in karst systems"</i>
 * Ing Civil, University of Floridya, <i>Geology Deparment</i>
 
-<b>Contact: <a href="mailto:fabianquichimbo@ufl.edu">gopher@example.com</a></b> 
+<b>Contact: <a href="mailto:flquichimbo@gmail.com">flquichimbo@gmail.com</a></b> 
 
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/waterfall.png" alt="Waterfall" class="test-class">
