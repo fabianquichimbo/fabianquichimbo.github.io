@@ -16,9 +16,10 @@ header:
   caption: "Park Reserve in Pensacola, 2/2/2025"
 excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my hometown instilled in me a deep appreciation for nature and its intricate processes. From an early age, I was fascinated by the source of Cuenca’s renowned clean water, which originates in the high-altitude mountain ecosystems known as páramos. Curious about the natural processes that sustain these vital water resources and how water is distributed throughout the city, I pursued a bachelor’s degree in Civil Engineering at Escuela Superior Politécnica del Litoral (ESPOL) and later a master’s degree in Hydrology at the University of Cuenca. These academic experiences deepened my understanding of the water cycle and strengthened my commitment to studying hydrologic systems.
 ---
-* PhD , University of Florida
-  * Thesis: <i>"Groundwater and Surfacewater interactions in karst systems"</i>
-* Ing Civil, University of Floridya, <i>Geology Deparment</i>
+* PhD Candidate , University of Florida
+  * Thesis: <i>"Linking Surface Water-Groundwater Interactions to N₂O Production In Karst Aquifers"</i>
+* M.Sc in Hydrology, Universidad de Cuenca <i>Faculty of Engineering</i>
+* B.Sc in Civil Engineering, Escuela Superior Politecnica Del Litoral (ESPOL), <i>Faculty of Geosciences Engineering</i>
 
 <b>Contact: <a href="mailto:flquichimbo@gmail.com">flquichimbo@gmail.com</a></b> 
 
