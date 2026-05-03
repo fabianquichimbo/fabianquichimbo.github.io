@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/image.png
   caption: "Park Reserve in Pensacola, 2/2/2025"
-excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
+excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my hometown instilled in me a deep appreciation for nature and its intricate processes. From an early age, I was fascinated by the source of Cuenca’s renowned clean water, which originates in the high-altitude mountain ecosystems known as páramos. Curious about the natural processes that sustain these vital water resources and how water is distributed throughout the city, I pursued a bachelor’s degree in Civil Engineering at Escuela Superior Politécnica del Litoral (ESPOL) and later a master’s degree in Hydrology at the University of Cuenca. These academic experiences deepened my understanding of the water cycle and strengthened my commitment to studying hydrologic systems.
 ---
 * PhD , University of Florida
   * Thesis: <i>"Groundwater and Surfacewater interactions in karst systems"</i>
