@@ -48,9 +48,12 @@ feature_row:
 {%include feature_row%}
 
 Example for extra information that can be display on the landing page
+Only <!-- --> will hide content from your website
 
+<!--
 #> **Now Recruiting:**  
 #> I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
 
 #> **Seeking Graduate Opportunities:**  
 #> I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!
+-->
