@@ -11,7 +11,7 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "Park reserve in Pensacola, 2/2/2025"  
-excerpt: Passionate hydrologist focused on exploring natural ecosystems and understanding water resources and the intricate processes that sustain them. <br />
+excerpt: Hydrologist focused on understanding natural ecosystems and investigating flow and transport processes across spatiotemporal scales by integrating field data with computational modeling. <br />
 
 # Includes author profile in sidebar
 author: First M. Last
@@ -51,9 +51,8 @@ Example for extra information that can be display on the landing page
 Only <!-- --> will hide content from your website
 
 <!--
-#> **Now Recruiting:**  
-#> I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
-
-#> **Seeking Graduate Opportunities:**  
-#> I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!
+> **Now Recruiting:**  
+> I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
+> **Seeking Graduate Opportunities:**  
+> I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!
 -->
