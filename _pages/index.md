@@ -6,11 +6,11 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.2"
-  overlay_image: assets/images/image.png
+  overlay_image: assets/images/Pantropical.png
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Park reserve in Pensacola, 2/2/2025"  
+  caption: "Natural Catchments from Pantropical Zone"  
 excerpt: Hydrologist focused on understanding natural ecosystems and investigating flow and transport processes across spatiotemporal scales by integrating field data with computational modeling. <br />
 
 # Includes author profile in sidebar

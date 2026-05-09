@@ -18,7 +18,7 @@ excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my ho
 ---
 * PhD Candidate , University of Florida
   * Thesis: <i>"Linking Surface Water-Groundwater Interactions to N₂O Production In Karst Aquifers"</i>
-* M.Sc in Hydrology, Universidad de Cuenca <i>Faculty of Engineering</i>
+* M.Sc in Hydrology, Universidad de Cuenca,<i>Faculty of Engineering</i>
 * B.Sc in Civil Engineering, Escuela Superior Politecnica Del Litoral (ESPOL), <i>Faculty of Geosciences Engineering</i>
 
 <b>Contact: <a href="mailto:flquichimbo@gmail.com">flquichimbo@gmail.com</a></b> 
