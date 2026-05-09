@@ -19,7 +19,7 @@ author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/Las_Grietas_Santa_Cruz_Island.png
+  - image_path: /assets/images/Las_Grietas_Santa_Cruz_Island.jpg
     image_size: 250px
     alt: "About"
     title: "About"
@@ -35,7 +35,7 @@ feature_row:
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/Climate_class.png
+  - image_path: /assets/images/Climate_class.jpg
     alt: "Teaching"
     image_size: 500px
     title: "Teaching"
