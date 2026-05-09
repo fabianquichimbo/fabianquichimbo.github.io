@@ -22,6 +22,7 @@ excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my ho
 
 <b>Contact: <a href="mailto:flquichimbo@gmail.com">flquichimbo@gmail.com</a></b> 
 
+<!--
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/waterfall.png" alt="Waterfall" class="test-class">
     <img src="{{ site.baseurl }}/assets/images/mudstone.png" alt="Mudstone" class="test-class">
@@ -34,6 +35,5 @@ excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my ho
 </figure>
 ## Current affiliation
 * University of Florida: [Department of Geological Sciences](https://geology.ufl.edu){:target="_blank"}
-
-
+-->
 
