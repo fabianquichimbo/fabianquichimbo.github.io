@@ -22,6 +22,9 @@ excerpt: Cuenca, Ecuador, is where my story begins. The lush landscapes of my ho
 
 <b>Contact: <a href="mailto:flquichimbo@gmail.com">flquichimbo@gmail.com</a></b> 
 
+## Current affiliation
+* University of Florida: [Department of Geological Sciences](https://geology.ufl.edu){:target="_blank"}. Williamson Hall, 1864 Stadium Rd, Gainesville, FL 32611, USA
+
 <!--
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/waterfall.png" alt="Waterfall" class="test-class">
