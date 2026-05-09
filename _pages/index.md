@@ -19,8 +19,8 @@ author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/Las Grietas-Santa Cruz Island_.png
-    image_size: 100px
+  - image_path: /assets/images/Las_Grietas_Santa_Cruz_Island.png
+    image_size: 250px
     alt: "About"
     title: "About"
     excerpt: "Growing up in Ecuador, surrounded by extraordinary natural ecosystems in one of the most biodiverse regions on Earth, inspired my passion to study water resources."
