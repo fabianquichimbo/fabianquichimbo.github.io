@@ -29,9 +29,9 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/research.png
     alt: "Research"
-    image_size: 20px
+    image_size: 250px
     title: "Research"
-    excerpt: "I am dedicated to unraveling the intricacies of water dynamics within diverse landscapes, encompassing the untouched beauty of natural catchments and the complex tapestry of urban environments. Through modeling efforts, I seek to simulate and understand the multifaceted processes governing water movement in these distinct settings—whether in the context of natural catchments or the engineered networks of urban landscapes."
+    excerpt: "I am dedicated to unraveling the intricacies of water dynamics within diverse landscapes, encompassing the natural catchments as well as urban environments. Through modeling efforts, I seek to simulate and understand the multifaceted processes governing water movement in these distinct settings—whether in the context of natural catchments or the engineered networks of urban landscapes."
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -47,8 +47,9 @@ feature_row:
 
 {%include feature_row%}
 
+<!--
 Example for extra information that can be display on the landing page
-Only <!-- --> will hide content from your website
+Only-->
 
 <!--
 > **Now Recruiting:**  
