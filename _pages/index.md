@@ -19,11 +19,11 @@ author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/about.png
+  - image_path: /assets/images/Las Grietas-Santa Cruz Island_.png
     image_size: 100px
     alt: "About"
     title: "About"
-    excerpt: "As a Gopher Tortoise who has spent a lifetime burrowing in the sandy soils of the Southeast, I now find myself fascinated by the study of glacial landscapes—quite a journey from warm burrows to chilly terrains!"
+    excerpt: "Growing up in Ecuador, surrounded by extraordinary natural ecosystems in one of the most biodiverse regions on Earth, inspired my passion to study water resources."
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
@@ -31,15 +31,15 @@ feature_row:
     alt: "Research"
     image_size: 20px
     title: "Research"
-    excerpt: "I study how rock fracturing is influenced by climate forcing and water erosion, using remote sensing, fieldwork, laboratory experiments, and computational modeling to understand landscape evolution."
+    excerpt: "I am dedicated to unraveling the intricacies of water dynamics within diverse landscapes, encompassing the untouched beauty of natural catchments and the complex tapestry of urban environments. Through modeling efforts, I seek to simulate and understand the multifaceted processes governing water movement in these distinct settings—whether in the context of natural catchments or the engineered networks of urban landscapes."
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/teaching.png
+  - image_path: /assets/images/Climate_class.png
     alt: "Teaching"
     image_size: 500px
-    title: "Teaching and Mentoring"
-    excerpt: "Mentoring future geoscientists and students is central to my mission. I strive to foster curiosity, critical thinking, and inclusivity in every learning environment."
+    title: "Teaching"
+    excerpt: "As a teaching assistant, I am committed to fostering curiosity, critical thinking, and inclusivity while supporting student engagement in environmental and hydrological sciences."
     url: "/teaching/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"      
