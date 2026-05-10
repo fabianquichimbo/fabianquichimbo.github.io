@@ -18,19 +18,19 @@ feature_row:
   excerpt: "Fluorescent Natural Organic Materials (NOMs) often cause interference with dye fluorescence."
   url: "/research/pahoehoe"
   #btn_label: "Learn More"
-  btn_class: "btn--primary"
+  #btn_class: "btn--primary"
 - image_path: /assets/images/modflow_usg.png
   title: "Surface Water-Groundwater Interactions on Karst Systems "
   excerpt: "Characterization of GW-SW on karst systems."
   url: "/research/pahoehoe"
   #btn_label: "Learn More"
-  btn_class: "btn--primary"
+  #btn_class: "btn--primary"
 - image_path: /assets/images/n20_karst.png
   title: "N20 Production on Karst Systems"
   excerpt: "Variables that controls N20 production on karst Systems."
   url: "/research/pahoehoe"
   #btn_label: "Learn More"
-  btn_class: "btn--primary"
+  #btn_class: "btn--primary"
 
 feature_row2:
 - image_path: /assets/images/master_hydrology.jpg
@@ -38,13 +38,13 @@ feature_row2:
   excerpt: " Transit time modelling based on stable isotopes precipitation, streamflow and temperature time series analyzed from Ecuador, Costa Rica, and Australian catchments ."
   url: "/research/pahoehoe"
   #btn_label: "Learn More"
-  btn_class: "btn--primary"
+  #btn_class: "btn--primary"
 - image_path: /assets/images/undergrad_paper.png
   title: "Green and Blue Infraestructe To Enhancement of Flood Resilience"
   excerpt: " Urban flooding is a major problem in many coastal cities. The rapidly shifting patterns of land use and demographic increase are making conventional approaches to stormwater management fail. The implementations of approachs with nature-based solutions help to increase city resilience and rise awarness about climate actions to reduce flood risks."
   url: "/research/pahoehoe"
   #btn_label: "Learn More"
-  btn_class: "btn--primary"
+  #btn_class: "btn--primary"
 ---
 **Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
 
