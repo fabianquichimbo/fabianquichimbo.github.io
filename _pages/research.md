@@ -4,11 +4,11 @@ title: "Research"
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/rivermotion.png
+  overlay_image: /assets/images/blue_springs.png
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "River Motion, Minnesota"
+  caption: "Blue Springs, Gainesville"
 excerpt: As a science, hydrology seeks to understand how water moves through natural systems across space and time, linking climate, landscapes, ecosystems, surface water, and groundwater.
 permalink: /research/
 
