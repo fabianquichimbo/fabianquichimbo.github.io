@@ -15,7 +15,7 @@ permalink: /research/
 feature_row:
 - image_path: /assets/images/spectral_deconvolution.png
   title: "Spectral Deconvolution for Quantitative Dye-Tracing"
-  excerpt: "."
+  excerpt: "Fluorescent Natural Organic Materials (NOMs) often cause interference with dye fluorescence."
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
