@@ -9,7 +9,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "River Motion, Minnesota"
-excerpt: Geoscientists study how rivers shape landscapes through erosion, sediment transport, and deposition. River erosion carves valleys, forms channels, and exposes bedrock, while processes like rock fracturing influence the development of landforms and the movement of water and sediments over time.
+excerpt: As a science, hydrology seeks to understand how water moves through natural systems across space and time, linking climate, landscapes, ecosystems, surface water, and groundwater.
 permalink: /research/
 
 feature_row:
@@ -42,19 +42,17 @@ feature_row2:
 
 ---
 
-As a science, hydrology seeks to understand how water moves through natural systems across space and time, linking climate, landscapes, ecosystems, surface water, and groundwater.
+<p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
+{% include feature_row id="feature_row" %}
+
 
 **Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
 
 I am currently developing a research project that combines specialized dye-tracing techniques with numerical modeling to better understand karst system dynamics across space and time. Using an integrated approach that includes laboratory experiments and fieldwork, I investigate how surface water–groundwater mixing influences biogeochemical processes in karst aquifers. Karst can act as potential hotspots for nitrous oxide (N₂O) production—a potent greenhouse gas with nearly 300 times the global warming potential of CO₂ over a 100-year period.
 
-<p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
-{% include feature_row id="feature_row" %}
-
 <!-- Other content -->
 
-
-
-<p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects</p>
-
+<--p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects
 {% include feature_row id="feature_row2" %}
+-->
+
