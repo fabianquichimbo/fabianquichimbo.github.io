@@ -13,7 +13,7 @@ excerpt: As a science, hydrology seeks to understand how water moves through nat
 permalink: /research/
 
 feature_row:
-- image_path: /assets/images/spectral_deconvolution.PNG
+- image_path: /assets/images/spectral_deconvolution.png
   title: "Spectral Deconvolution for Quantitative Dye-Tracing"
   excerpt: "."
   url: "/research/pahoehoe"
