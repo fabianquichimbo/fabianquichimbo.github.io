@@ -8,7 +8,7 @@ header:
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "Poe Springs, Gainesville"
+  caption: "Poe Springs Park, Florida"
 excerpt: As a science, hydrology seeks to understand how water moves through natural systems across space and time, linking climate, landscapes, ecosystems, surface water, and groundwater.
 permalink: /research/
 
