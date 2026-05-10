@@ -33,13 +33,18 @@ feature_row:
   btn_class: "btn--primary"
 
 feature_row2:
-- image_path: /assets/images/master_hydrology.png
+- image_path: /assets/images/master_hydrology.JPG
   title: "Key Controls On Tropical Transit Times"
   excerpt: " Transit time modelling based on stable isotopes precipitation, streamflow and temperature time series analyzed from Ecuador, Costa Rica, and Australian catchments ."
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-
+- image_path: /assets/images/undergrad_paper.png
+  title: "Enhancement of Flood Resilience in the Guayaquil City Delta - Febres Cordero Parish"
+  excerpt: " Urban flooding is a major problem in many coastal cities. The rapidly shifting patterns of land use and demographic increase are making conventional approaches to stormwater management fail. The implementations of approachs with nature-based solutions help to increase city resilience and rise awarness about climate actions to reduce flood risks."
+  url: "/research/pahoehoe"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
 ---
 **Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
 
