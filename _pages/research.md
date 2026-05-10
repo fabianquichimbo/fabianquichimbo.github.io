@@ -52,7 +52,6 @@ I am currently developing a research project that combines specialized dye-traci
 
 <!-- Other content -->
 
-<--p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects
+<p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects
 {% include feature_row id="feature_row2" %}
--->
 
