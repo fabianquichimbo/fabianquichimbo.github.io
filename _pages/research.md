@@ -19,21 +19,21 @@ feature_row:
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/pahoehoe.png
-  title: "North Shore Lava Flow Formation"
-  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+- image_path: /assets/images/.png
+  title: "Surface Water-Groundwater Interactions on Karst Systems "
+  excerpt: "Characterization of GW-SW on karst systes"
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/pahoehoe.png
-  title: "North Shore Lava Flow Formation"
-  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+- image_path: /assets/images/phd_topic.png
+  title: "N20 Production on Karst Systems"
+  excerpt: "Variables that controls N20 production on karst Systems."
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 feature_row2:
-- image_path: /assets/images/pahoehoe.png
+- image_path: /assets/images/master_hydrology.png
   title: "Key Controls On Tropical Transit Times"
   excerpt: " Transit time modelling based on stable isotopes precipitation, streamflow and temperature time series analyzed from Ecuador, Costa Rica, and Australian catchments ."
   url: "/research/pahoehoe"
