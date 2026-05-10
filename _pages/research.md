@@ -19,7 +19,7 @@ feature_row:
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/.png
+- image_path: /assets/images/modflow_usg.png
   title: "Surface Water-Groundwater Interactions on Karst Systems "
   excerpt: "Characterization of GW-SW on karst systems"
   url: "/research/pahoehoe"
