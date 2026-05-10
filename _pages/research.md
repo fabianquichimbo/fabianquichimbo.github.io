@@ -4,11 +4,11 @@ title: "Research"
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/blue_springs.PNG
+  overlay_image: /assets/images/poe_springs.jpeg
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "Blue Springs, Gainesville"
+  caption: "Poe Springs, Gainesville"
 excerpt: As a science, hydrology seeks to understand how water moves through natural systems across space and time, linking climate, landscapes, ecosystems, surface water, and groundwater.
 permalink: /research/
 
