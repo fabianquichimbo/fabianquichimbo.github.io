@@ -34,24 +34,21 @@ feature_row:
 
 feature_row2:
 - image_path: /assets/images/pahoehoe.png
-  title: "North Shore Lava Flow Formation"
-  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  title: "Key Controls On Tropical Transit Times"
+  excerpt: " Transit time modelling based on stable isotopes precipitation, streamflow and temperature time series analyzed from Ecuador, Costa Rica, and Australian catchments ."
   url: "/research/pahoehoe"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
 ---
+**Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
+
+I am currently developing a research project that combines specialized dye-tracing techniques with numerical modeling to better understand karst system dynamics across space and time. Using an integrated approach that includes laboratory experiments and fieldwork, I investigate how surface water–groundwater mixing influences biogeochemical processes in karst aquifers. Karst can act as potential hotspots for nitrous oxide (N₂O) production—a potent greenhouse gas with nearly 300 times the global warming potential of CO₂ over a 100-year period.
 
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
 {% include feature_row id="feature_row" %}
 
 
-**Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
-
-I am currently developing a research project that combines specialized dye-tracing techniques with numerical modeling to better understand karst system dynamics across space and time. Using an integrated approach that includes laboratory experiments and fieldwork, I investigate how surface water–groundwater mixing influences biogeochemical processes in karst aquifers. Karst can act as potential hotspots for nitrous oxide (N₂O) production—a potent greenhouse gas with nearly 300 times the global warming potential of CO₂ over a 100-year period.
-
-<!-- Other content -->
-
-<p style="font-size: 1.5rem; font-weight: bold">Additional Research Projects
+<p style="font-size: 1.5rem; font-weight: bold">Past Research Projects
 {% include feature_row id="feature_row2" %}
 
