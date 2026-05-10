@@ -42,11 +42,11 @@ feature_row2:
 
 ---
 
-Geoscientific research encompasses a wide range of topics, including river dynamics, sedimentology, volcanic processes, and landscape evolution. Our interests span the investigation of how natural forces shape the Earth's surface, the interaction between water and rock, and the long-term impacts of geological events on ecosystems.
+As a science, hydrology seeks to understand how water moves through natural systems across space and time, linking climate, landscapes, ecosystems, surface water, and groundwater.
 
-**Featured Project: Subsurface Mapping of Ancient River Channels**
+**Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
 
-We are currently developing a project focused on using ground-penetrating radar and sediment core analysis to map buried river channels in the Upper Midwest. This research aims to reconstruct paleoenvironments, understand historical water flow patterns, and assess how ancient rivers influenced present-day landforms and groundwater resources.
+I am currently developing a research project that combines specialized dye-tracing techniques with numerical modeling to better understand karst system dynamics across space and time. Using an integrated approach that includes laboratory experiments and fieldwork, I investigate how surface water–groundwater mixing influences biogeochemical processes in karst aquifers. Karst can act as potential hotspots for nitrous oxide (N₂O) production—a potent greenhouse gas with nearly 300 times the global warming potential of CO₂ over a 100-year period.
 
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
 {% include feature_row id="feature_row" %}
