@@ -27,7 +27,7 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/transit_times.PNG
+  - image_path: /assets/images/transit_times.jpg
     alt: "Research"
     image_size: 250px
     title: "Research"
