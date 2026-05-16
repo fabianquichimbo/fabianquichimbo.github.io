@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/fq.jpg
-  caption: "Exposed basalt, Grand Marais, MN"
+  caption: ""
 #excerpt: 
 ---
 [Full citation list available on Google Scholar](https://scholar.google.com/){:target="_blank"}<br>
