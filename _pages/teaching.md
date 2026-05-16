@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching & Outreach"
 permalink: /teaching/
 hidden: true
 header:
@@ -24,7 +24,7 @@ toc_sticky: true
       
 ---
 ## Teaching Assistantships
-| ------- |
+|-------------------------|
 |**Hydrogeology Field Camp**; University of Florida; <i>**Su 2026**</i> (In-Person)|
 |**Groundwater Geology, GLY 4822/5827**; University of Florida; <i>**Sp 2025**</i> (Online)|
 |**Eartquakes, Volcanoes & Other Hazards, GLY 1880**; University of Florida; <i>**F 2024**</i> (Online)|
@@ -32,7 +32,7 @@ toc_sticky: true
 
 ## Outreach & Community Services
 Besides science, I am interested in science communication, climate education and leadership, and youth policy engagement.
-|----|
+|------------------------------|
 |**Invited speaker, Jan 2026**; Scientist in Every Florida School Program — presented science lessons to 5th-grade students on forms and transformation of energy.|
 |**Invited speaker, Feb 2025**; Scientist in Every Florida School Program — led interactive lessons for K–12 students on matter, forces, and motion.|
 |**Volunter,Jan–Jul 2023**; Climate Academy (UNICEF-Ecuador) — environmental leadership program on climate change awareness, environmental policy, advocacy, and activism.|
