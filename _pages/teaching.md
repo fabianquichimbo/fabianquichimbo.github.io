@@ -33,12 +33,12 @@ toc_sticky: true
 
 ## Outreach & Community Services
 Besides science, I am interested in science communication, climate education and leadership, and youth policy engagement.
-* **Invited speaker, Jan 2026**; Scientist in Every Florida School Program — presented science lessons to 5th-grade students on forms and transformation of energy.
+* **Invited Speaker, Jan 2026**; Scientist in Every Florida School Program. Presented science lessons to 5th-grade students on forms and transformation of energy.
 
-* **Invited speaker, Feb 2025**; Scientist in Every Florida School Program — led interactive lessons for K–12 students on matter, forces, and motion.
+* **Invited Speaker, Feb 2025**; Scientist in Every Florida School Program - led interactive lessons for K–12 students on matter, forces, and motion.
 
-* **Volunter,Jan–Jul 2023**; Climate Academy (UNICEF-Ecuador) — environmental leadership program on climate change awareness, environmental policy, advocacy, and activism.
+* **Volunteer, Jan–Jul 2023**; Climate Academy (UNICEF-Ecuador), environmental leadership program on climate change awareness, environmental policy, advocacy, and activism.
 
-* **Invited collaborator, Oct 2022**; Local Conference of Youth (LCOY), Ecuador — helped co-develop the Ecuadorian Youth Declaration on Climate Change, contributing to environmental initiatives and policy recommendations for COP27.
+* **Invited Collaborator, Oct 2022**; Local Conference of Youth (LCOY), Ecuador, co-developing the Ecuadorian Youth Declaration on Climate Change, contributing to environmental initiatives and policy recommendations for Conference of the Parties (COP27).
 
 
