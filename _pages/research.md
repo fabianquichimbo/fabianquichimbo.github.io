@@ -47,7 +47,7 @@ feature_row2:
   btn_label: "Learn More"
   btn_class: "btn--primary"
 ---
-**Toward a Predictive Understanding of Karst Systems**
+**Toward a Predictive Understanding of Complex Groundwater Systems**
 
 My research focuses on understanding the hydrologic and biogeochemical processes that govern groundwater flow, transport, and connectivity in karst environments. I am currently developing an integrated research framework that combines dye-tracing experiments, environmental tracers, and numerical modeling to characterize the spatial and temporal dynamics of groundwater systems. My broader research goal is to advance our understanding of hydrologic and biogeochemical processes in karst systems through the integration of field observations, environmental tracers, and process-based modeling. By combining theoretical, computational, experimental, and field-based approaches, I aim to improve predictive capabilities for groundwater resources management, ecosystem conservation, and climate resilience in groundwater-dependent landscapes.
 
