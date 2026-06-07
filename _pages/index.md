@@ -11,12 +11,14 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "Natural Catchments from Pantropical Zone"  
+  excerpt: Ph.D. Candidate in Geological Sciences at the University of Florida. <br />
 # excerpt: Hydrologist focused on understanding natural ecosystems and investigating flow and transport processes across spatiotemporal scales by integrating field data with computational modeling. <br />
 
 # Includes author profile in sidebar
 author: First M. Last
 author_profile: true
 
+  My research focuses on karst hydrogeology, groundwater–surface water interactions, environmental tracers, and numerical modeling of complex hydrologic systems. I integrate field observations, geochemical analyses, and computational modeling to investigate water flow, contaminant transport, and biogeochemical processes in karst environments.
 
 feature_row:
   - image_path: /assets/images/Las_Grietas_Santa_Cruz_Island.JPG
@@ -45,13 +47,10 @@ feature_row:
     btn_class: "btn--inverse"      
 ---
 
-{% include feature_row %}
-
----
-## Ph.D. Candidate in Geological Sciences at the University of Florida
-
 My research focuses on karst hydrogeology, groundwater–surface water interactions, environmental tracers, and numerical modeling of complex hydrologic systems. I integrate field observations, geochemical analyses, and computational modeling to investigate water flow, contaminant transport, and biogeochemical processes in karst environments.
 
+
+<!-- {% include feature_row %} -->
 
 <!--
 Example for extra information that can be display on the landing page
@@ -60,6 +59,7 @@ Only-->
 <!--
 > **Now Recruiting:**  
 > I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
+
 > **Seeking Graduate Opportunities:**  
 > I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!
 -->
