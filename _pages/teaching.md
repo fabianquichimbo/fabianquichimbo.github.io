@@ -6,11 +6,11 @@ hidden: false
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/teaching.png
+  overlay_image: /assets/images/fq.jpg
   caption:
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Fabian L. Quichimbo
 author_profile: true
 #classes: wide
 
