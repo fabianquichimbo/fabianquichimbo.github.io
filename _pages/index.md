@@ -16,12 +16,6 @@ header:
 # Includes author profile in sidebar
 author: First M. Last
 author_profile: true
----
-
-## Ph.D. Candidate in Geological Sciences at the University of Florida
-
-My research focuses on karst hydrogeology, groundwater–surface water interactions, environmental tracers, and numerical modeling of complex hydrologic systems. I integrate field observations, geochemical analyses, and computational modeling to investigate water flow, contaminant transport, and biogeochemical processes in karst environments.
-
 
 
 feature_row:
@@ -52,6 +46,11 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+---
+## Ph.D. Candidate in Geological Sciences at the University of Florida
+
+My research focuses on karst hydrogeology, groundwater–surface water interactions, environmental tracers, and numerical modeling of complex hydrologic systems. I integrate field observations, geochemical analyses, and computational modeling to investigate water flow, contaminant transport, and biogeochemical processes in karst environments.
 
 
 <!--
