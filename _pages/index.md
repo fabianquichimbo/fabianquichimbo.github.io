@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: " "
-permalink: /index/
+permalink: /
 hidden: true
 
 header:
@@ -11,7 +11,7 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Natural Catchments from Pantropical Zone"  
+  caption: "Natural Catchments Across the Pantropical Zone"  
 excerpt: Ph.D. Candidate in Geological Sciences at the University of Florida.
 
 
