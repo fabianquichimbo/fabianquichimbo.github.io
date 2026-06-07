@@ -10,5 +10,8 @@ main:
     url: /teaching/
   - title: "CV"
     url: /CV/
-  - title: "Other"
-    url: /other/
+
+# - title: "Other" ##comented 
+#   url: /other/ ##comented ctrl + k
+
+
