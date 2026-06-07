@@ -15,7 +15,7 @@ header:
 ---
  
 
-<!-- [View on Google Drive](https://drive.google.com/file/d/12u7S7dNbJqWXDM6mpxSu0rCmP5JtPsI6/view?usp=sharing) -->
+[View on Google Drive](https://drive.google.com/file/d/1XTjOJcja2v4YH1-fNZB_M6JGt_kF-9g0/view?usp=drive_link)
 
 <iframe 
 src="{{ '/assets/pdfs/Fabian_Quichimbo.pdf' | relative_url }}" 
@@ -23,5 +23,5 @@ width="100%"
 height="900px" 
 style="border: none;">
   This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="{{ '/assets/pdfs/Shanti Penprase CV_Sept 2025_forweb.pdf' | relative_url }}">Download PDF</a>.
+  <a href="{{ '/assets/pdfs/Fabian_Quichimbo.pdf' | relative_url }}">Download PDF</a>.
 </iframe>
