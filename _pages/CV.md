@@ -19,7 +19,7 @@ header:
 
 <iframe src="{{ '/assets/pdfs/Fabian_Quichimbo.pdf' | relative_url }}" 
 width="100%" 
-height="1200px" 
+height="900px" 
 style="border: none;">
   This browser does not support PDFs. Please download the PDF to view it: 
   <a href="{{ '/assets/pdfs/Shanti Penprase CV_Sept 2025_forweb.pdf' | relative_url }}">Download PDF</a>.
