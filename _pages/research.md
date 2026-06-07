@@ -37,15 +37,15 @@ feature_row2:
 - image_path: /assets/images/master_hydrology.jpg
   title: "Key Controls On Tropical Transit Times"
   excerpt: " Transit time modelling based on stable isotopes precipitation, streamflow and temperature time series analyzed from Ecuador, Costa Rica, and Australian catchments ."
-  #url: "/research/pahoehoe"
-  #btn_label: "Learn More"
-  #btn_class: "btn--primary"
+  url: "https://www.researchgate.net/publication/384827134_Key_controls_on_water_transit_times_along_a_tropical_precipitation_gradient"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
 - image_path: /assets/images/undergrad_paper.png
   title: "Green and Blue Infraestructe To Enhancement of Flood Resilience"
   excerpt: " Urban flooding is a major problem in many coastal cities. The rapidly shifting patterns of land use and demographic increase are making conventional approaches to stormwater management fail. The implementations of approachs with nature-based solutions help to increase city resilience and rise awarness about climate actions to reduce flood risks."
-  #url: "/research/pahoehoe"
-  #btn_label: "Learn More"
-  #btn_class: "btn--primary"
+  url: "https://www.researchgate.net/publication/361222591_Influence_of_Low-Impact_Development_in_Flood_Control_A_Case_Study_of_the_Febres_Cordero_Stormwater_System_of_Guayaquil_Ecuador"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
 ---
 **Linking Surface Water-Groundwater Interactions to N₂O Production in Karst Systems**
 
