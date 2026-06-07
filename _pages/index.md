@@ -16,12 +16,14 @@ header:
 # Includes author profile in sidebar
 author: First M. Last
 author_profile: true
+---
 
-excerpt: >
-  **Ph.D. Candidate in Geological Sciences at the University of Florida** 
-  My research focuses on karst hydrogeology, groundwater–surface water interactions, environmental tracers, and numerical modeling of complex hydrologic systems. I integrate field observations, geochemical analyses, and computational modeling to investigate water flow, contaminant transport, and biogeochemical processes in karst environments.
+## Ph.D. Candidate in Geological Sciences at the University of Florida
 
-#  
+My research focuses on karst hydrogeology, groundwater–surface water interactions, environmental tracers, and numerical modeling of complex hydrologic systems. I integrate field observations, geochemical analyses, and computational modeling to investigate water flow, contaminant transport, and biogeochemical processes in karst environments.
+
+
+
 feature_row:
   - image_path: /assets/images/Las_Grietas_Santa_Cruz_Island.JPG
     image_size: 250px
@@ -50,6 +52,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
 
 <!--
 Example for extra information that can be display on the landing page
