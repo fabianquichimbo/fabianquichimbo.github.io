@@ -2,16 +2,12 @@
 layout: single
 title: "Teaching & Outreach"
 permalink: /teaching/
-hidden: true
+hidden: false
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/teaching.png
-  #actions:
-  #  - label: "Get started"
-  #    url: "/test/"
   caption:
-excerpt: “Tell me and I forget. Teach me and I remember. Involve me and I learn.” 
 
 # Includes author profile in sidebar
 author: First M. Last
@@ -20,8 +16,7 @@ author_profile: true
 
 #  
 toc: true
-toc_sticky: true  
-      
+toc_sticky: true     
 ---
 ## Teaching Assistantships
 * **Hydrogeology Field Camp**; University of Florida; <i>**Su 2026**</i> (In-Person)
