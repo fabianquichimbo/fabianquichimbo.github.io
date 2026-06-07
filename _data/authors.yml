@@ -12,10 +12,10 @@ First M. Last:
       url: "https://www.geology.ufl.edu/"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
-      url: "https://orcid.org/"
+      url: "https://orcid.org/0000-0001-8328-2733"
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google"
-      url: https://scholar.google.com/
+      url: "https://scholar.google.com/citations?user=rW6S-f8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-brands fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/fabianquichimbo?tab=repositories"
