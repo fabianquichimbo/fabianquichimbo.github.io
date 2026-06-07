@@ -15,10 +15,11 @@ permalink: /research/
 feature_row:
 - image_path: /assets/images/spectral_deconvolution.png
   title: "Spectral Deconvolution for Quantitative Dye-Tracing"
-  excerpt: "Fluorescent Natural Organic Materials (NOMs) often cause interference with dye fluorescence."
-  #url: "/research/pahoehoe"
-  #btn_label: "Learn More"
-  #btn_class: "btn--primary"
+  excerpt: "Scientists often use fluorescent dyes to trace how water moves underground, especially in complex systems like caves (karst) or fractured rock. By tracking changes in dye concentration over time, called breakthrough curves, we can learn how fast water flows and where it travels. However, naturally occurring substances in groundwater, such as humic and fulvic acids, also fluoresce. This background signal can make it difficult to detect dyes, especially at low concentrations."
+  url: "https://www.researchgate.net/publication/405187197_Automated_Spectral_Deconvolution_for_Quantitative_Dye_Tracing"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
 - image_path: /assets/images/modflow_usg.png
   title: "Surface Water-Groundwater Interactions on Karst Systems "
   excerpt: "Characterization of GW-SW on karst systems."
