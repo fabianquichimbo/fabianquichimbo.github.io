@@ -6,6 +6,8 @@ permalink: /CV/
  #Includes author profile in sidebar 5
 author: Fabian L. Quichimbo
 author_profile: true
+toc: true
+toc_sticky: true  
 
 header:
   overlay_color: "#222222" #"#5e616c"
@@ -14,6 +16,7 @@ header:
   caption: 
 ---
  
+
 
 <!-- [View on Google Drive](https://drive.google.com/file/d/12u7S7dNbJqWXDM6mpxSu0rCmP5JtPsI6/view?usp=sharing) -->
 
