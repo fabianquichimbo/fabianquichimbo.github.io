@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: " "
-permalink: /
+permalink: /index/
 hidden: true
 
 header:
