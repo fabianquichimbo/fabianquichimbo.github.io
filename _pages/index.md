@@ -3,6 +3,7 @@ layout: splash
 title: " "
 permalink: /
 hidden: true
+
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.2"
@@ -11,7 +12,10 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "Natural Catchments from Pantropical Zone"  
-  excerpt: Ph.D. Candidate in Geological Sciences at the University of Florida.
+excerpt: Ph.D. Candidate in Geological Sciences at the University of Florida.
+
+
+
 # excerpt: Hydrologist focused on understanding natural ecosystems and investigating flow and transport processes across spatiotemporal scales by integrating field data with computational modeling. <br />
 
 # Includes author profile in sidebar
