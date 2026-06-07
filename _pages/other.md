@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: "Teaching and Mentoring"
 permalink: /others/
@@ -77,4 +77,4 @@ In addition to my teaching experience, **I have served as a direct research advi
 	<img src="{{ site.baseurl }}/assets/images/field2.png">
 	<figcaption></figcaption>
 </figure>
-
+ -->
