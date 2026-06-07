@@ -7,9 +7,9 @@ Fabian L. Quichimbo:
   location         : Gainesville, FL
   email            : fabianquichimbo@ufl.edu
   links:
-    - label: "University website"
+    - label: "Research Group"
       icon: "fas fa-solid fa-link"
-      url: "https://www.geology.ufl.edu/"
+      url: "https://yoon-group.github.io"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0001-8328-2733"
@@ -19,3 +19,6 @@ Fabian L. Quichimbo:
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/fabianquichimbo"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Fabian_Quichimbo"
