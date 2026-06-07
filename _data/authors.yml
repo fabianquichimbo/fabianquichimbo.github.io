@@ -1,11 +1,11 @@
 # /_data/authors.yml
 
-First M. Last:
+Fabian L. Quichimbo:
   name             : "Fabian Quichimbo"
-  avatar           : "/assets/images/image.png" # path of avatar image, e.g. "/assets/images/avatar.png"
-  bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
+  avatar           : "/assets/images/Fabian Quichimbo.jpg" # path of avatar image, e.g. "/assets/images/avatar.png"
+  bio              : "<br/>Department of Geological Sciences, University of Florida<br/>"
   location         : Gainesville, FL
-  email            : flquichimbo@gmail.com
+  email            : fabianquichimbo@ufl.edu
   links:
     - label: "University website"
       icon: "fas fa-solid fa-link"
