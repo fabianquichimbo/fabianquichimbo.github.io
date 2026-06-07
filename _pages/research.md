@@ -9,7 +9,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "Poe Springs Park, Florida"
-excerpt: Integrating Environmental Tracers, Field Observations, and Numerical Modeling to Understand Groundwater Flow, Reactive Transport, and Hydrologic Connectivity Across Scales.
+excerpt: "Methods and Tools: Groundwater modeling (MODFLOW-USG, MODFLOW 6), Reactive transport modeling (PFREEQC, MODFLOW USG-TRANSPORT), Natural and artificial tracers, Geospatial analysis (GIS), Python, R, Statistical analysis, Remote sensing, Hydrogeochemistry."
 permalink: /research/
 
 feature_row:
@@ -49,7 +49,7 @@ feature_row2:
 ---
 **Toward a Predictive Understanding of Complex Groundwater Systems**
 
-My research focuses on understanding the hydrologic and biogeochemical processes that govern groundwater flow, transport, and connectivity in karst environments. I am currently developing an integrated research framework that combines dye-tracing experiments, environmental tracers, and numerical modeling to characterize the spatial and temporal dynamics of groundwater systems. My broader research goal is to advance our understanding of hydrologic and biogeochemical processes in karst systems through the integration of field observations, environmental tracers, and process-based modeling. By combining theoretical, computational, experimental, and field-based approaches, I aim to improve predictive capabilities for groundwater resources management, ecosystem conservation, and climate resilience in groundwater-dependent landscapes.
+I study the hydrogeological processes that govern groundwater flow, transport, and connectivity in groundwater systems. By integrating field observations, environmental tracers, experiments, and numerical modeling, I seek to improve predictions of groundwater behavior and support sustainable water resource management, ecosystem conservation, and climate resilience.
 
 
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
