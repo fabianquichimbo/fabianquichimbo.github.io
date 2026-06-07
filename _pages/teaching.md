@@ -14,9 +14,9 @@ author: First M. Last
 author_profile: true
 #classes: wide
 
-#  
-toc: true
-toc_sticky: true     
+#  red side bar, for long sections, not activated, "false"
+toc: false
+toc_sticky: false     
 ---
 ## Teaching Assistantships
 * **Hydrogeology Field Camp**; University of Florida; <i>**Su 2026**</i> (In-Person)
